@@ -5,7 +5,7 @@
 
 <img src="./assets/icon.svg" alt="GoZen Logo" width="200"/>
 
-*Video playback addon for the Godot game engine*
+*Videoo playback addon for the Godot game engine*
 
 ## What is GDE GoZen?
 GDE GoZen is a GDExtension addon for the Godot game engine which provides video playback for all kinds of video formats. Godot natively only supports Theora, but with this GDExtension you'll be able to use files such as `.mp4` and more thanks to using the power of FFmpeg.
