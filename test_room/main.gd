@@ -1,4 +1,5 @@
 extends Control
+#v1
 
 const VIDEO_EXTENSIONS: PackedStringArray = [
 	"webm","mkv","flv","vob","ogv","ogg","mng","avi","mts","m2ts","ts","mov",
